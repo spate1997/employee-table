@@ -34,3 +34,4 @@ CREATE TABLE work_hours (
     hours_worked DECIMAL(4,2) CHECK (hours_worked >= 0),
     overtime_hours DECIMAL(4,2) DEFAULT 0
 );
+
