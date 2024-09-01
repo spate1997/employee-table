@@ -1,4 +1,3 @@
-
 -- Create the employees table
 CREATE TABLE employees (
     employee_id SERIAL PRIMARY KEY,
